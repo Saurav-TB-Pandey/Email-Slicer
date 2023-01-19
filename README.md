@@ -1,2 +1,8 @@
 # Email-Slicer
-Use This Project To Separate The Username And Domain From The E-mail Address
+
+This is a simple project written in Python programming language,
+
+Which will help users to separate the username and the domain of an E-mail address.
+
+# Requirements :-
+Required Module :- pyautogui
